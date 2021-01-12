@@ -4,13 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Currently
+Currently a Principal Software Engineer at Vanquis Bank.
 
-## Talks
+I'm a true techy at heart and loves to continuously learn and improve. My main passions in tech are Microservices, Event-Driven Architecture and DDD. 
 
-### The Future of APIs in Financial Services
-
-A journey of the past, present and future of APIs in Vanquis bank, lessons learned and how they inform our future direction, also touching on the effects of regulatory change and how this influences technical decisions within Financial Services.
-
-
-https://www.meetup.com/Leeds-Sharp/events/272870884/
+This blog is a place for me to write about some of the things I am passionate about, have some healthy discussions and hopefully share some of my opinions and knowledge in the tech space.
