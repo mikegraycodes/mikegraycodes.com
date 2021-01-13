@@ -23,6 +23,8 @@ We'll take an anemic domain model and refactor it towards a rich domain model di
 
 # State
 
+Is important
+
 # Encapsulation
 
 # Testability
