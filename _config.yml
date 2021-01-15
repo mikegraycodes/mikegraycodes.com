@@ -27,30 +27,9 @@ twitter_username: MikeGrayCodes
 github_username:  MikeGrayCodes
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
-  
-# Define Jekyll collections
-collections:
-  # Define a collection named "posts", its documents reside in the "_posts" directory
-  posts:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "posts" collection
-    posts:
-      # Give the collection a name
-      name: Posts
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
