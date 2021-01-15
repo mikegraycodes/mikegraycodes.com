@@ -27,7 +27,7 @@ twitter_username: MikeGrayCodes
 github_username:  MikeGrayCodes
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
